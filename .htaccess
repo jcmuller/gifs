@@ -13,6 +13,7 @@
 
 	# HIDE /theme DIRECTORY
 	IndexIgnore .htaccess /theme
+	IndexIgnore .htaccess /.git
 
 #
 # GENERAL ICONS (BLANK, DIRECTORY, PARENT DIRECTORY)
